@@ -1,7 +1,8 @@
-🏦 Loan Management System
+#### 🏦 LOAN MANAGEMENT SYSTEM
+
 This application is designed to manage loans between borrowers and lenders, with an admin interface to oversee all transactions. Users can register with their email addresses, choose roles (admin, borrower, lender), request loans, confirm loan payments, and view transaction history.
 
-📋 Table of Contents
+## 📋 Table of Contents
 
 Features
 
@@ -13,7 +14,7 @@ Contributing
 
 License
 
-✨ Features
+## ✨ Features
 
 User Registration: Any number of users can register using their email addresses.
 
@@ -31,7 +32,7 @@ Dashboard Updates: Changes in status are reflected on each user's dashboard in r
 
 Admin Dashboard: Admin users have access to view complete transaction histories.
 
-🚀 Installation
+## 🚀 Installation
 
 Clone the repository from GitHub:
 
@@ -44,7 +45,7 @@ Copy code
 git clone https://github.com/your-username/loan-management-system.git
 
 
-Navigate to the project directory:
+## Navigate to the project directory:
 
 
 bash
@@ -56,7 +57,7 @@ Copy code
 
 npm install
 
-💻 Usage
+## 💻 Usage
 
 Start the application:
 
@@ -79,11 +80,11 @@ Lender: Confirm loan payments and view past payments.
 Admin: View complete transaction histories.
 
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your proposed changes.
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
 
