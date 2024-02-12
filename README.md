@@ -1,4 +1,4 @@
-#### 🏦 LOAN MANAGEMENT SYSTEM
+### LOAN MANAGEMENT SYSTEM
 
 This application is designed to manage loans between borrowers and lenders, with an admin interface to oversee all transactions. Users can register with their email addresses, choose roles (admin, borrower, lender), request loans, confirm loan payments, and view transaction history.
 
